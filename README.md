@@ -31,6 +31,13 @@ Designed with usability in mind, making it valuable for both HR and leadership t
  Screenshot- ![Screenshot (288)](https://github.com/user-attachments/assets/3359c70c-0106-4b6f-90b8-9fa829e37930)
 
 
+ # Feedback
+Your feedback is welcome! If You'd like to collaborate on same project or discuss data analysis opportunities, feel free to reach out.
+
+
+
+
+
  
 
 

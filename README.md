@@ -24,11 +24,15 @@ Designed with usability in mind, making it valuable for both HR and leadership t
 
 
 # Repository Struture-
- Data used-
+ Data used- https://github.com/AVN-456/HR-Analytics/commit/463e63683ae9e7237e429d9729d7c81c3756cb7d
 
  Dashoard- https://github.com/AVN-456/HR-Analytics/commit/463e63683ae9e7237e429d9729d7c81c3756cb7d
 
- Screenshot-
+ Screenshot- ![Screenshot (288)](https://github.com/user-attachments/assets/3359c70c-0106-4b6f-90b8-9fa829e37930)
+
+
+ 
+
 
 
 
